@@ -9,7 +9,7 @@ module.exports = {
       },
       rules: {
         'array-bracket-spacing': ['error', 'never'],
-        'arrow-parens': ['error', 'always'],
+        'arrow-parens': ['error', 'as-needed'],
         'arrow-spacing': 'error',
         'block-spacing': 'error',
         'brace-style': ['error', '1tbs', { allowSingleLine: true }],
