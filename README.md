@@ -142,6 +142,11 @@ Stop your `package.json` from being formatted:
 }
 ```
 
+### Custom Rules:
+name | description
+-|-
+`@cypress/dev/arrow-body-multiline-braces` | Enforces braces in arrow functions ONLY IN multiline function definitions
+`@cypress/dev/skip-comment` | Enforces a comment (`// NOTE:`) explaining a `.skip` added to `it`, `describe`, or `context` test blocks 
 
 ## <a name="editors"></a>Editors
 
