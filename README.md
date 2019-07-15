@@ -9,7 +9,7 @@
 
 </div>
 
-> ⚠️ This package for _internal development_ of Cypress. Here's the [**Official Cypress Eslint Plugin**](https://github.com/cypress-io/eslint-plugin-cypress) meant for Users of Cypress.
+> ⚠️ This package for _internal development_ of Cypress. Here's the [**Official Cypress ESLint Plugin**](https://github.com/cypress-io/eslint-plugin-cypress) meant for users of Cypress.
 
 
 ## Installation
@@ -20,7 +20,7 @@ npm install --save-dev @cypress/eslint-plugin-dev
 
 ## Usage
 
-> ⚠️ Currently does **not** support eslint version 6+
+> ⚠️ Currently does **not** support ESLint version 6+
 1) install the following `devDependencies`:
 ```sh
 @cypress/eslint-plugin-dev
